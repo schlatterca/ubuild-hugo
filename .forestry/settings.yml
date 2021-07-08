@@ -12,10 +12,10 @@ sections:
   label: Documento_02_colonnaditesto
 - type: directory
   path: cartella_01
-  label: Cartella_01 per jpg
+  label: Cartella_01
   create: all
   match: "**/*"
-  new_doc_ext: app
+  new_doc_ext: ".md"
 - type: document
   path: README-FORESTRY.md
   label: Help
