@@ -5,8 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: documento_02
-  label: Documento_02
+  path: cartella_01/prova.app
+  label: documento_prova
+  match: "**/*"
+- type: document
+  path: cartella_01/Colonnaditesto_2.app
+  label: Documento_02_colonnaditesto
 - type: directory
   path: cartella_01
   label: Cartella_01 per jpg
