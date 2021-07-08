@@ -7,7 +7,6 @@ sections:
 - type: document
   path: cartella_01/prova.app
   label: documento_prova
-  match: "**/*"
 - type: document
   path: cartella_01/Colonnaditesto_2.app
   label: Documento_02_colonnaditesto

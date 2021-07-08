@@ -88,3 +88,5 @@ on the examined areas of the harp were compared with data held
 in the scientific wood collection  
 at the Thünen Institute for Wood Research, and with databases  
 of macro and micro wood data. Volker Haag presented the findings in a report to Harfenlabor, dated February 18, 2019.
+
+Ok.
