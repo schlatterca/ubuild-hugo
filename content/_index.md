@@ -58,6 +58,9 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
+  navigation:
+  - link_url: ''
+    link_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
@@ -78,7 +81,7 @@ page_sections:
   content: Hello world!
 
 ---
-In 2018, Harfenlabor asked Thünen Institute for Wood Research (Hamburg) to, for the first time ever, examine the wood on the Barberini Harp’s column, as well as other parts (some of which have been examined using different methods) using
+**In 2018, Harfenlabor asked Thünen Institute for Wood Research (Hamburg) to, for the first time ever, examine the wood on the Barberini Harp’s column**, as well as other parts (some of which have been examined using different methods) using
 
 new non-invasive methodology,  
 and identify the wood species used in the construction of the Barberini Harp. On December 16–18, 2018, Volker Haag and Valentina Zemke from the Thünen Institute for Wood Research carried out anatomical determination of structural features in order to identify the species of wood used to construct the harp,  
