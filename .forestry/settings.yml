@@ -7,6 +7,7 @@ sections:
 - type: document
   path: documento_02
   label: Documento_02
+  read_only: false
 - type: directory
   path: cartella_01
   label: Cartella_01 per jpg
