@@ -1,0 +1,18 @@
++++
+content = "prova di testo Lorem ipsum sit amet."
+draft = true
+headline = "Colonna di testo"
+title = "Colonnaditesto"
+
++++
+Altra prova per un testo di articolo.
+
+![](/uploads/2018/06/21/img4.jpg)
+
+###### Immagine_4 in formato quadrato.
+
+**Non male comunque**
+
+> Non male, disse la volpe.
+
+    <span style="color:red">ciaoooo questo è Span<span>
