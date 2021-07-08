@@ -12,7 +12,7 @@ sections:
   label: Cartella_01 per jpg
   create: all
   match: "**/*"
-  new_doc_ext: jpg
+  new_doc_ext: ''
 - type: document
   path: README-FORESTRY.md
   label: Help
