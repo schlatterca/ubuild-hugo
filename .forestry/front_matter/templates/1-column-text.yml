@@ -11,3 +11,5 @@ fields:
   name: column
   label: Column
   template: text-column
+pages:
+- cartella_01/articolo_01.md
