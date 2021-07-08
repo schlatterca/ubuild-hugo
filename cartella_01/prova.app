@@ -1,6 +1,5 @@
 +++
 content = "prodissima"
-draft = true
 headline = "Prova"
 
 +++
