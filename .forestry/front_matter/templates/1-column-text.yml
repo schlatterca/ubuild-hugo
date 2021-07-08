@@ -13,4 +13,5 @@ fields:
   template: text-column
 pages:
 - cartella_01/articolo_01.md
+- cartella_01/articolo_02.md
 - content/Provissima.md
