@@ -4,6 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Heading_03
+- type: document
+  path: documento_02
+  label: Documento_02
+  match: "**/*"
+- type: directory
+  path: cartella_01
+  label: Cartella_01 per jpg
+  create: all
+  match: "**/*"
+  new_doc_ext: ".jpg"
 - type: document
   path: README-FORESTRY.md
   label: Help
